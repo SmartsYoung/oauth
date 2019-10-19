@@ -1,0 +1,14 @@
+ userinfo:
+   user_id:
+   secret:
+   localohost:
+   callbackUrl:
+ auth:
+   oauth2:
+   openId:
+ website:
+   github:
+   google:
+   gitlab:
+
+
